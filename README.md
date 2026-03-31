@@ -4,7 +4,7 @@ An interactive **Streamlit web application** that performs sentiment analysis on
 
 The system classifies tweets as **Positive or Negative**, provides **visual analytics**, supports **data filtering**, and includes a **basic sarcasm detection mechanism**.
 
-🔗 App Link: https://sentiment-analysis-app-app-9fah2yvbehe7qbmjf5hb4b.streamlit.app/
+🔗 App Link: \https://tweet-sentiment-dashboard-ai.streamlit.app/
 
 ---
 
